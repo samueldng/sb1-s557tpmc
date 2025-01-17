@@ -5,7 +5,6 @@ const Debtors = () => {
   return (
     <div className="space-y-6">
       <div className="flex justify-between items-center">
-        <h1 className="text <boltAction type="file" filePath="src/pages/Debtors.tsx">
         <h1 className="text-3xl font-bold text-gray-900">Devedores</h1>
       </div>
 
